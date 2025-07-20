@@ -1,16 +1,17 @@
-## 💻 A Little Bit About Me and My Interests
+## 👋 About Me
 
 ```yaml
 name: Alexia Crisan
 located_in: Romania
-current_job: Nokia Trainee
+current_job: Uni student & Nokia Trainee
 
-education:
-  [
-    Automation and Computing, Polytechnic University of Timisoara
-        October 2023 - present
-    "Grigore Moisil" High School, Timisoara
-        September 2019 — July 2023
+education: [
+    Automation and Computing,
+    Polytechnic University of Timisoara
+    October 2023 - present
+    "Grigore Moisil" High School,
+    Timisoara
+    September 2019 — July 2023,
   ]
 
 fields_of_interests:
@@ -19,12 +20,14 @@ fields_of_interests:
     "Web Development",
     "Software Development",
     "Hardware Development",
-    "Engineering"
+    "Engineering",
   ]
 
 currently_learning: ["React", "Tailwind CSS", "Java"]
 2025_goals: ["Create projects and learn more."]
 hobbies: ["Playing & creating board games", "Reading", "Coding"]
+```
+
 ---
 
 ### 🚀 Some Tools I Have Used and Learned
@@ -52,5 +55,3 @@ hobbies: ["Playing & creating board games", "Reading", "Coding"]
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexia-Crisan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
-
-
