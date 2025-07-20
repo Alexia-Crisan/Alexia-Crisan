@@ -5,13 +5,10 @@ name: Alexia Crisan
 located_in: Romania
 current_job: Uni student & Nokia Trainee
 
-education: [
-    Automation and Computing,
-    Polytechnic University of Timisoara
-    October 2023 - present
-    "Grigore Moisil" High School,
-    Timisoara
-    September 2019 — July 2023,
+education:
+  [
+    Automation and Computing, Polytechnic University of Timisoara
+    "Grigore Moisil" High School, Timisoara
   ]
 
 fields_of_interests:
