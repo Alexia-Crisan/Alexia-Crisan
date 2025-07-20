@@ -54,6 +54,5 @@ hobbies: ["Playing & creating board games", "Reading", "Coding"]
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexia-Crisan)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexia-Crisan&layout=compact)
 
