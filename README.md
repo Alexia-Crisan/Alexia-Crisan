@@ -18,6 +18,7 @@ fields_of_interests:
     "Software Development",
     "Hardware Development",
     "Engineering",
+    "OOP"
   ]
 
 currently_learning: ["React", "Tailwind CSS", "Java"]
