@@ -3,7 +3,7 @@
 ```yaml
 name: Alexia Crisan
 located_in: Romania
-current_job: Uni student & Nokia Trainee
+current_job: Uni student & NOKIA Junior Software Engineer
 
 education:
   [
